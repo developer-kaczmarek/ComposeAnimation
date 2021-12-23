@@ -1,5 +1,5 @@
 # Compose Disney Logo Animation
-Simple float animation with help Jetpack Compose on Android.
+Simple float animation with help Jetpack Compose on Android.:sparkles:
 
 ## UI
 
